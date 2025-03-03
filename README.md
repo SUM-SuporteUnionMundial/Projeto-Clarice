@@ -1,7 +1,8 @@
+<img src="https://raw.githubusercontent.com/SUM-SuporteUnionMundial/Projeto-Clarice/main/images/u2g5zRQsewIXL02Tqfmn-generated_image.png" alt="Ícone do Projeto Clarice" width="200" height="200">
+
+
 **Autor**:  
 ### Marcelo Rodrigo Alexandre
-
-<img src="https://raw.githubusercontent.com/SUM-SuporteUnionMundial/Projeto-Clarice/main/images/u2g5zRQsewIXL02Tqfmn-generated_image.png" alt="Ícone do Projeto Clarice" width="200" height="200">
 
 ---
 **Projeto**: 
