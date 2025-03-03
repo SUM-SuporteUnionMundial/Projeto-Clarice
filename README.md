@@ -1,8 +1,13 @@
-# Projeto Clarice - Criando o Futuro
+**Autor**:  
+### Marcelo Rodrigo Alexandre
 
-**Autor**: Marcelo Rodrigo Alexandre  
+<img src="https://raw.githubusercontent.com/SUM-SuporteUnionMundial/Projeto-Clarice/main/images/u2g5zRQsewIXL02Tqfmn-generated_image.png" alt="Ícone do Projeto Clarice" width="200" height="200">
 
 ---
+**Projeto**: 
+### Clarice
+
+<img src="https://raw.githubusercontent.com/SUM-SuporteUnionMundial/Projeto-Clarice/main/images/FKv87ysB7PdnYaOo-generated_image.jpg" alt="Imagem do Projeto Clarice 1" width="200" height="200">
 
 ## Apresentação
 
@@ -13,6 +18,7 @@ No cerne do projeto está o **MTMI**, uma inovação desenvolvida durante as pes
 ---
 
 ## Diferenciais do Projeto Clarice
+<img src="https://raw.githubusercontent.com/SUM-SuporteUnionMundial/Projeto-Clarice/main/images/ug5zRQIXL02Tqfmn-generated_image.jpg" alt="Imagem do Projeto Clarice 10" width="200" height="200">
 
 Diferentemente de iniciativas anteriores, como o Switch Transformer de 2021, que se limitava à coordenação de especialistas em linguagem, o Clarice vai além. Ele é uma plataforma integrada que resolve problemas reais com:
 
@@ -30,6 +36,8 @@ Diferentemente de iniciativas anteriores, como o Switch Transformer de 2021, que
 
 ## Aplicações Práticas
 
+<img src="https://raw.githubusercontent.com/SUM-SuporteUnionMundial/Projeto-Clarice/main/images/gwZFwOj9scfaKEgP-generated_image.jpg" alt="Imagem do Projeto Clarice 3"  width="200" height="200">
+
 O Projeto Clarice oferece soluções inovadoras em diversas áreas, como:  
 - **Cibersegurança Avançada**: Software exclusivo para proteção de usuários.  
 - **Medicina e Direito**: Otimização de processos e suporte especializado.  
@@ -42,8 +50,9 @@ Esses resultados são impulsionados pelo MTMI e por minhas técnicas exclusivas 
 - Arquiteturas proprietárias e segredos comerciais protegidos.
 
 ---
-
 ## Visão do Projeto
+
+<img src="https://raw.githubusercontent.com/SUM-SuporteUnionMundial/Projeto-Clarice/main/images/PisxCkm0i7Hs9MTk-generated_image.jpg" alt="Imagem do Projeto Clarice 2"  width="200" height="200">
 
 O Clarice transcende a tecnologia pura. Ele é uma visão que reúne conhecimento humano de áreas como segurança, engenharia e relações interpessoais em uma IA adaptável e surpreendente. Minha inovação nesse campo é pioneira, respaldada por documentos datados que comprovam minha autoria.
 
@@ -131,3 +140,5 @@ Atualmente, continuo minhas interações e pesquisas de maneira meticulosamente 
 
 <p xmlns:cc="http://creativecommons.org/ns#" > <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+
+
